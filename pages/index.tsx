@@ -11,7 +11,7 @@ const links: NodeJS.Dict<[string, string | null, string][]> = {
     ['StartOut Australia', '2019', 'https://www.startout.org.au/'],
     ['SEEK Limited', '2019', 'https://www.startout.org.au/'],
     ['Localz', '2018', 'https://www.localz.com/'],
-    ['InnoWell PwC', '2018', 'https://www.innowell.org/'],
+    ['InnoWell @ PwC', '2018', 'https://www.innowell.org/'],
     ['Enablo', '2017', 'https://www.enablo.com/'],
     ['OpenClub', '2017', 'https://www.openclub.com.au/'],
     ['Word of House', '2016', 'https://www.willhackett.com/'],
@@ -32,10 +32,10 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Will Hackett - Software Architect — Melbourne, Australia</title>
+        <title>Will Hackett - Software Engineer — Melbourne, Australia</title>
         <meta
           name="description"
-          content="I am a software architect and am presently CTO at AutoGrab and venueScout GmbH. I've worked for Expedia, PwC, Coles, SEEK and more."
+          content="I am a software engineer and am presently CTO at AutoGrab and venueScout GmbH. I've worked on projects for Expedia, PwC, Coles Group, SEEK and more."
         />
         <link
           rel="apple-touch-icon"
