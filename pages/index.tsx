@@ -7,7 +7,7 @@ export default function Index() {
         <title>Will Hackett - Software Engineer — Melbourne, Australia</title>
         <meta
           name="description"
-          content="I am a software engineer and am presently CTO at AutoGrab and venueScout GmbH. I've worked on projects for Expedia, PwC, Coles Group, SEEK and more."
+          content="I'm a software engineer and have built products you've probably used, for Expedia, Coles, SEEK & more."
         />
         <link
           rel="apple-touch-icon"
