@@ -4,10 +4,10 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Will Hackett - Software Engineer — Melbourne, Australia</title>
+        <title>Will Hackett - Brisbane, Australia</title>
         <meta
           name="description"
-          content="I'm a software engineer and have built products you've probably used, for Expedia, Coles, SEEK & more."
+          content="Software engineer."
         />
         <link
           rel="apple-touch-icon"
